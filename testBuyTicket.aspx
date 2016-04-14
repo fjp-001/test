@@ -20,6 +20,10 @@
         <asp:TextBox ID="TextBox1" runat="server" Height="489px" TextMode="MultiLine" Width="1052px"></asp:TextBox>
     
     </div>
+        <div>
+    <asp:Button ID="Button2" runat="server" OnClick="Button1_Click" Text="测试" />
+    
+    </div>
     </form>
 </body>
 </html>
